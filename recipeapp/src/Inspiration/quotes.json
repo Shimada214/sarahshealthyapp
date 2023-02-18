@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "quote": "Trust in the Lord with all your heart and lean not on your own understanding; In all your ways submit to him, and he will make your paths straight.",
+    "book": "Proverbs 3:5-6"
+  },
+  {
+    "id": 2,
+    "quote": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+    "book": "John 3:16"
+  },
+  {
+    "id": 3,
+    "quote": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
+    "book": "John 14:27"
+  },
+  {
+    "id": 4,
+    "quote": "Let us hold unswervingly to the hope we profess, for he who promised is faithful.",
+    "book": "Hebrews 10:23"
+  },
+  {
+    "id": 5,
+    "quote": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "book": "Jeremiah 29:11"
+  },
+  {
+    "id": 6,
+    "quote": "I can do all things through Christ who gives me strength.",
+    "book": "Philippians 4:13"
+  },
+  {
+    "id": 7,
+    "quote": "Blessed are the peacemakers, for they will be called children of God.",
+    "book": "Matthew 5:9"
+  },
+  {
+    "id": 8,
+    "quote": "The Lord is my light and my salvation— whom shall I fear? The Lord is the stronghold of my life— of whom shall I be afraid?",
+    "book": "Psalm 27:1"
+  },
+  {
+    "id": 9,
+    "quote": "For we live by faith, not by sight.",
+    "book": "2 Corinthians 5:7"
+  },
+  {
+    "id": 10,
+    "quote": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+    "book": "Philippians 4:6"
+  },
+  {
+    "id": 11,
+    "quote": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+    "book": "Isaiah 41:10"
+  },
+  {
+    "id": 12,
+    "quote": "This is the day the Lord has made; let us rejoice and be glad in it.",
+    "book": "Psalm 118:24"
+  },
+  {
+    "id": 13,
+    "quote": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
+    "book": "Micah 6:8"
+  },
+  {
+    "id": 14,
+    "quote": "Delight yourself in the Lord and he will give you the desires of your heart.",
+    "book": "Psalm 37:4"
+  },
+  {
+    "id": 15,
+    "quote": "Let your light shine before others, so that they may see your good works and give glory to your Father in heaven.",
+    "book": "Matthew 5:16"
+  },
+  {
+    "id": 16,
+    "quote": "Cast your burden on the Lord, and he will sustain you; he will never permit the righteous to be moved.",
+    "book": "Psalm 55:22"
+  },
+  {
+    "id": 17,
+    "quote": "Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you, leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift.",
+    "book": "Matthew 5:23-24"
+  },
+  {
+    "id": 18,
+    "quote": "For God did not give us a spirit of fear, but of power, love, and self-discipline.",
+    "book": "2 Timothy 1:7"
+  },
+  {
+    "id": 19,
+    "quote": "Let all that you do be done in love.",
+    "book": "1 Corinthians 16:14"
+  },
+  {
+    "id": 20,
+    "quote": "Therefore, my dear brothers and sisters, stand firm. Let nothing move you. Always give yourselves fully to the work of the Lord, because you know that your labor in the Lord is not in vain.",
+    "book": "1 Corinthians 15:58"
+  },
+  {
+    "id": 21,
+    "quote": "You, Lord, are forgiving and good, abounding in love to all who call to you.",
+    "book": "Psalm 86:5"
+  },
+  {
+    "id": 22,
+    "quote": "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.",
+    "book": "Ephesians 2:10"
+  },
+  {
+    "id": 23,
+    "quote": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+    "book": "Isaiah 40:31"
+  },
+  {
+    "id": 24,
+    "quote": "And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart.",
+    "book": "Galatians 6:9"
+  },
+  {
+    "id": 25,
+    "quote": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+    "book": "Psalm 23:4"
+  },
+  {
+    "id": 26,
+    "quote": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God.",
+    "book": "Ephesians 2:10"
+  },
+    {
+      "id": 27,
+      "quote": "Do not be afraid, for I am with you; I will bring your children from the east and gather you from the west.",
+      "book": "Isaiah 43:5"
+    },
+    {
+      "id": 28,
+      "quote": "Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you, leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift.",
+      "book": "Matthew 5:23-24"
+    },
+    {
+      "id": 29,
+      "quote": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+      "book": "John 3:16"
+    },
+    {
+      "id": 30,
+      "quote": "For we are God's masterpiece. He has created us anew in Christ Jesus, so we can do the good things he planned for us long ago.",
+      "book": "Ephesians 2:10"
+    }
+  
+  ]
+

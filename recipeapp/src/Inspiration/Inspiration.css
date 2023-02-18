@@ -1,0 +1,66 @@
+.quote-day {
+  text-align: center;
+  padding: 20px;
+  background: url(../assets/flower2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
+  box-shadow: 0px 0px 10px #BBBBBB;  
+}
+
+.quote-day h2 {
+  font-size: 75px;
+  margin-bottom: 20px;
+  color: rgb(201, 197, 175);
+  font-weight: 500;
+}
+
+.quote-day .quote {
+  font-size: 40px;
+  font-style: italic;
+  margin-bottom: 10px;
+  font-family: var(--font-alt); 
+  color: #DCCA87;
+}
+
+.quote-day .book {
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(201, 197, 175);
+}
+
+@media (max-width: 768px) {
+  .quote-day h2 {
+    font-size: 50px;
+    margin-top: 80px; 
+  }
+  
+  .quote-day .quote {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .quote-day .book {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(201, 197, 175);
+  }
+}
+
+@media (max-width: 450px) {
+  .quote-day h2 {
+    font-size: 35px;  
+  }
+  
+  .quote-day .quote {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .quote-day .book {
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(201, 197, 175);
+  }
+}
